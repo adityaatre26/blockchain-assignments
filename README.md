@@ -1,8 +1,8 @@
 # Blockchain Lab Assignments
 
 ## Student Details
-- Student Name: YOUR_NAME
-- Roll Number: YOUR_ROLL_NUMBER
+- Student Name: Aditya Atre
+- Roll Number: 123B1B003
 - Course Name: Blockchain Lab
 
 ## Overview
